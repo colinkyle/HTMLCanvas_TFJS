@@ -1,0 +1,29 @@
+{
+  "name": "canvas_plot",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "private": true,
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.17.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "json": "^11.0.0",
+    "lodash": "^4.17.21",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.202",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.3.3",
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4"
+  }
+}
