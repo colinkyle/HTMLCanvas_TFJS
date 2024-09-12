@@ -1,0 +1,12 @@
+data/*
+dist/*
+env/*
+*.ipynb
+node_modules/*
+scratch/*
+Scripts/*
+slideX/*
+.DS_Store
+.vscode/*
+.webpack_cache/*
+custom.d.ts
